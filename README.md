@@ -1,4 +1,4 @@
-# Snake Game in Python using Pygame
+# Snake Game in Python using Pygame 🐍
 
 This repository contains a simple implementation of the classic Snake Game using the Pygame library in Python. The game features a snake that moves around the screen, attempting to eat randomly generated food to grow in length. The player can control the snake's direction with arrow keys. The game ends if the snake collides with the screen boundaries or itself.
 
